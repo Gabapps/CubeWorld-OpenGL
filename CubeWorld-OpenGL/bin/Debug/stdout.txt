@@ -1,9 +1,0 @@
-Ouverture reussie
-.......... 100%
-Chargement effectue
-32768 octets
-
-x : 10
-y : 23
-z : 1
-
